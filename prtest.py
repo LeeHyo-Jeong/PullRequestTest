@@ -1,10 +1,5 @@
 def main():
-    print("Ahhhh!")
-    print("Hello World!")
-    print("HI~")
-
-
-    print("Hyojeong Pull Request")
+  print("jueunni")
 
 if __name__ == "__main__":
     main()
