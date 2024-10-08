@@ -1,7 +1,6 @@
 def main():
     print("Ahhhh!")
-    print("Hello World!")
-    print("HI~")
+    print("Jungwoni changed~")
 
 
     print("Hyojeong Pull Request")
